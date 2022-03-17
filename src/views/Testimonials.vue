@@ -74,7 +74,7 @@
     };
   },
   mounted() {
-    fetch("http://backend-kyle24.herokuapp.com/testimonials")
+    fetch("https://backend-kyle24.herokuapp.com/testimonials")
       .then((res) => res.json())
       .then((data) => (this.Testimonials = data))
       .catch((err) => console.log(err.message));
