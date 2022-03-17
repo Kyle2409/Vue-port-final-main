@@ -1,0 +1,29 @@
+{
+    "Projects":[
+        {
+            "title":"Woolworks",
+            "image":"https://i.postimg.cc/fW3jSrVw/Screenshot-from-2022-02-02-08-02-34.png",
+            "id":"html",
+            "netlify": "https://woolworks.netlify.app",
+            "github": "https://github.com/Kyle2409/Pos-woolworks",
+            "details":"First time making basic POS"
+        },
+        {
+            "title":"Bmi Calculator",
+            "image":"https://i.postimg.cc/wMsvxJTp/Screenshot-from-2022-02-02-08-05-39.png",
+            "id":"html",
+            "netlify": "https://friendly-brattain-8ec312.netlify.app",
+            "github": "https://github.com/Kyle2409/BMI-final",
+            "details":"Using JavaScript to make a BMI calculator"
+        },
+        {
+            "title":"First Portfolio",
+            "image":"https://i.postimg.cc/hvZwhTzp/Screenshot-from-2021-10-27-11-00-24.png",
+            "id":"javascript",
+            "netlify": "https://kyle-mcbryne.netlify.app",
+            "github": "https://github.com/Kyle2409/Web2",
+            "details":"My first portfolio using html and css"
+        }
+    
+    ]
+}
